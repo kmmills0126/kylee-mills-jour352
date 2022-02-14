@@ -44,13 +44,14 @@ b {
 
 .organization {
 	font-weight: 400;
-	font-size: 1.5em;
+	font-size: 1.25em;
 }
 
-h5 {
+.date {
 	font-weight: 400;
 	font-style: italic;
 	font-size: 1em;
+	margin-top: 2px;
 }
 
 ul li {
