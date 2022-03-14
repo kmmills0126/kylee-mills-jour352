@@ -27,3 +27,11 @@ p {
 	font-size: 13px;
 	line-height: 20px;
 }
+
+blockquote {
+	font-size: 2em;
+	color: white;
+	background-color: black;
+	padding: 5px;
+	text-align: center;
+}
