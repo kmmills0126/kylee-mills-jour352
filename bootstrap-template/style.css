@@ -28,7 +28,6 @@ body {
 .sectionheader {
 	font-size: 5em;
 	text-transform: uppercase;
-	background-color: #33485e;
 	color: E03A3E;
 	font-weight: 400;
 	margin: 20px 0 10px 0;
@@ -88,4 +87,18 @@ ul li {
  	margin-left: auto;
  	margin-right: auto;
  	width: 50%;
+}
+
+h1 {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size:  4em;
+	color: #E03A3E;
+	font-weight: 400;
+}
+
+p {
+	color: white;
+	font-family: Georgia, serif;
+	font-size: 13px;
+	line-height: 25px;
 }
