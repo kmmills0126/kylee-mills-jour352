@@ -5,57 +5,6 @@ body {
 	font-weight: 400;
 }
 
-#name {
-	font-size: 3em;
-	color: #33485e;
-	text-transform: uppercase;
-	text-align: center;
-	border-bottom: 1px solid #33485e;
-	width: 60%;
-	min-width: 300px;
-	margin: 0 auto;
-}
-
-#title {
-	text-transform: uppercase;
-	font-size: 1.5em;
-	color: #33485e;
-	font-weight: 600;
-	text-align: center;
-	margin: 20px 0 0 0;
-}
-
-.sectionheader {
-	font-size: 5em;
-	text-transform: uppercase;
-	color: E03A3E;
-	font-weight: 400;
-	margin: 20px 0 10px 0;
-	width: 70%;
-	min-width: 300px;
-}
-
-.jobtitle {
-	font-weight: 600;
-	font-size: 1.5em;
-}
-
-.organization {
-	font-weight: 400;
-	font-size: 1.25em;
-}
-
-.date {
-	font-weight: 400;
-	font-style: italic;
-	font-size: 1em;
-	margin-top: 2px;
-}
-
-ul li {
-	font-size: 1em;
-}
-
 .menu {
 	margin: 0px;
 	padding: 0px;
@@ -92,7 +41,7 @@ ul li {
 h1 {
 	font-family: 'Open Sans', Arial, sans-serif;
 	font-size:  4em;
-	color: #E03A3E;
+	color: white;
 	font-weight: 400;
 }
 
@@ -102,3 +51,4 @@ p {
 	font-size: 13px;
 	line-height: 25px;
 }
+
