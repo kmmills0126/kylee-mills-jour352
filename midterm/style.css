@@ -1,0 +1,54 @@
+#content {
+	margin: auto;
+	width: 1000px;
+}
+
+#masthead {
+	text-align: center;
+}
+/*Created in Photoshop*/
+#masthead img {
+	width: 100%;
+}
+/*My name & Date*/
+#byline {
+	font-family: Helvetica;
+	font-size: 12px;
+	font-style: italic;
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-size: 28px;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+p {
+	font-family: Helvetica, Ariel, sans-serif;
+	font-size: 12px;
+}
+
+/*Included below all pictures*/
+figcaption {
+	font-size: 10px;
+	font-style: italic;
+}
+
+/*Bottom of the page*/
+blockquote {
+	font-size: 2em;
+	font-style: italic;
+	color: white;
+	background-color: black;
+	padding: 5px;
+	text-align: center;
+}
+
+a {
+	font-size: 12px;
+	font-style: italic;
+}
