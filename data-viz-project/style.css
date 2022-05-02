@@ -6,7 +6,7 @@ h1 {
 }
 
 body {
-	font-family: 'Open Sans', Arial, sans-serif;
+	font-family: 'Merriweather', serif;
 	font-size:  1em;
 	color: #444;
 	font-weight: 400;
@@ -37,7 +37,6 @@ blockquote {
 .topnav {
 	background-color: #333;
  	overflow: hidden;
-
 }
 
 .topnav a {
