@@ -5,6 +5,13 @@ h1 {
 	color: black;
 }
 
+
+#header img {
+	max-width: 1000px;
+	margin:  0 auto;
+	width: 100%;
+}
+
 body {
 	font-family: 'Merriweather', serif;
 	font-size:  1em;
@@ -14,7 +21,7 @@ body {
 
 #content {
 	margin: 0 auto;
-	width: 900px;
+	max-width: 900px;
 }
 
 h2 {
